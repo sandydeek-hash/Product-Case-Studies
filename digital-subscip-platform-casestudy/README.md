@@ -5,11 +5,11 @@ A digital self-service platform enabling customers to seamlessly manage TV chann
  
 ## 🚨 Problem
 Today, customers cannot modify their channel subscriptions online and must rely on customer support.
-This leads to:\n
-•	❌ Friction-heavy user experience \n
-•	📞 High call center volume and operational costs \n
-•	💸 Lost upsell and cross-sell opportunities \n
-•	📉 Limited customer engagement with digital platforms \n 
+This leads to:<br>
+•	❌ Friction-heavy user experience <br>
+•	📞 High call center volume and operational costs <br>
+•	💸 Lost upsell and cross-sell opportunities <br>
+•	📉 Limited customer engagement with digital platforms <br>
  
 ## 💡 Solution
 A self-service channel management platform that allows users to:
