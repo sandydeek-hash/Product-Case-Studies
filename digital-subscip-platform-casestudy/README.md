@@ -34,14 +34,16 @@ North Star Metric:
 •	View available channels and bundles 
 •	Add/remove channels dynamically 
 •	Smart filtering and search 
-#### 🎯 Personalization
+### 🎯 Personalization
 •	Channel recommendations based on viewing behavior 
 •	Trending bundles 
+•	Recommendations absed on the sub- profiles within an account
+•	Recommendation based on the time of the day
 ### 💳 Billing & Payments
 •	Real-time pricing updates 
 •	Pro-rated billing for mid-cycle changes 
 •	Secure payment processing 
-#### Activation
+### Activation
 •	Instant bundle/channel activation post order completion
 ### 🔔 Notifications
 •	Instant confirmation via email/SMS 
